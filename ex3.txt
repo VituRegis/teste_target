@@ -1,0 +1,45 @@
+RESPOSTA: 65
+
+
+Explicação:
+    primeiro ciclo:
+    k = 2
+    soma = 2
+    
+    segundo ciclo:
+    k = 3
+    soma = 5
+
+    terceiro ciclo:
+    k = 4
+    soma = 9
+
+    quarto ciclo:
+    k = 5
+    soma = 14
+
+    quinto ciclo:
+    k = 6
+    soma = 20
+
+    sexto ciclo:
+    k = 7
+    soma = 27
+
+    setimo ciclo:
+    k = 8
+    soma = 35
+
+    oitavo ciclo:
+    k = 9
+    soma = 44
+
+    nono ciclo:
+    k = 10
+    soma = 54
+
+    decimo ciclo:
+    k = 11
+    soma = 65
+
+    acaba a execução.
